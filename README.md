@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smash-cracker
+- 👋 Hi, I’m Denny Thomas
 - 👀 I’m interested in space
 - 🌱 I’m currently learning bungee jumping
 - 💞️ I’m looking to collaborate on nothing
