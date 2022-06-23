@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denny Thomas</h1>
 <h3 align="center">Blockchain Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://blog.fasset.com/wp-content/uploads/2020/12/1080-Blog-featured-Crypto-vs-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smash-cracker&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
 
