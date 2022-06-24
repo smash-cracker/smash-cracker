@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denny Thomas</h1>
 <h3 align="center">Blockchain Enthusiast</h3>
-<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/c0/96/b2/c096b276205f1b632555943faf3bf768.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c0/96/b2/c096b276205f1b632555943faf3bf768.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smash-cracker&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
 
