@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smash-cracker&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
 
-- 🔭 I’m currently working on **FindMyFest**
+- 🔭 checkout **Project House** @ <a href="www.projecthouse.store">projecthouse.store</a>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter, React and Python**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
-- 📫 How to reach me **dennythomas246@gmail.com**
+- 📫 Reach me @ <a href="www.t.me/gentleberry"> **Telegram** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
