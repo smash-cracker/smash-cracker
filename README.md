@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smash-cracker&label=Profile%20views&color=0e75b6&style=flat" alt="smash-cracker" /> </p>
 
-- 🔭 checkout **Project House** @ <a href="https://www.projecthouse.store">projecthouse.store</a>
+- 🔭 checkout **Project House** @ <a href="https://projecthouse.store/">projecthouse.store</a>
 
 - 🌱 I’m currently learning **Flutter, React and Python**
 
